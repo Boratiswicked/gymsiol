@@ -1,0 +1,14 @@
+body {
+ background-color: rgb(150,50,50);
+}
+h1   {color: powderblue; font-size:60px; font-family: verdana;}
+p    {color: white; font-size 20px; font-family: verdana; border: 1px solid powderblue;
+  padding: 30px; margin: 50px;}
+
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+}
